@@ -41,7 +41,7 @@ export function ClaimUsernameForm() {
             {/* @ts-ignore */}
         <TextInput
           size="sm"
-          prefix="ignite.com/"
+          prefix="calendo.com/"
           placeholder="seu-usuário"
           {...register('username')}
         />
